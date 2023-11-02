@@ -1,8 +1,5 @@
 package com.topsquad.shortenservice.model;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Temporal;
-import jakarta.persistence.TemporalType;
 import lombok.Data;
 
 import java.util.Date;

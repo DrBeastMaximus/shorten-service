@@ -1,7 +1,5 @@
 package com.topsquad.shortenservice.util;
 
-import org.springframework.stereotype.Component;
-
 import java.util.Random;
 
 public class CodeGeneratorUtil {

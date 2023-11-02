@@ -1,6 +1,5 @@
 package com.topsquad.shortenservice.controller;
 
-import com.topsquad.shortenservice.entity.ShortURL;
 import com.topsquad.shortenservice.model.PreviousShortenResponse;
 import com.topsquad.shortenservice.model.ShortenRequest;
 import com.topsquad.shortenservice.service.ShortenService;
